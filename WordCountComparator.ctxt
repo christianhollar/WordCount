@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=WordCountComparator
+comment0.text=\n\ Comparator\ to\ Sort\ PriorityQueue\n\n\ @ChristianHollar\n\ @11/23/20\n
+comment1.params=w1\ w2
+comment1.target=int\ compare(WordCount,\ WordCount)
+numComments=2

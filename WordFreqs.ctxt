@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=WordFreqs
+comment0.text=\n\ Creates\ a\ PriorityQueue\ and\ LinkedList\ from\ TreeMultiSet\n\n\ @ChristianHollar\n\ @11/23/20\n
+comment1.params=values
+comment1.target=WordFreqs(TreeMultiSet)
+comment1.text=\n\ Creates\ PriorityQueue\ using\ TreeMultiSet\ function\n\ \n
+comment2.params=n
+comment2.target=java.util.LinkedList\ mostCommon(int)
+comment2.text=\n\ Prints\ top\ n\ elements\ from\ priorityQueue\n\n\ @param\ \ integer\ \n\ @return\ \ LinkedList<WordCount\n
+numComments=3

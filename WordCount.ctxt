@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=WordCount
+comment0.text=\n\ WordCount\ holds\ a\ word\ and\ its\ indvidual\ count\n\n\ @ChristianHollar\n\ @11/23/20\n
+comment1.params=word
+comment1.target=WordCount(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getWord()
+comment3.params=
+comment3.target=int\ getCount()
+comment4.params=count
+comment4.target=void\ setCount(int)
+numComments=5
